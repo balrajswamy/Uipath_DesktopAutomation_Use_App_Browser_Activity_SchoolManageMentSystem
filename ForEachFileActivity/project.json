@@ -1,7 +1,7 @@
 {
-  "name": "Dynamic_FileActivities1",
-  "projectId": "1af1f577-eb83-4aed-9958-b4294db4ed24",
-  "description": "FileActivities1_Transactional Process",
+  "name": "ForEachFileActivity",
+  "projectId": "0fc9d7ab-f1ce-426b-8d34-2e11fec5a4d2",
+  "description": "ForEachFileActivity_Transactional Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.1.1]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "46d86015-dd8f-475d-9e11-7e80da3241be",
+      "uniqueId": "a32335bb-b2cb-4f3d-988a-c593554c3dcd",
       "input": [],
       "output": []
     }
