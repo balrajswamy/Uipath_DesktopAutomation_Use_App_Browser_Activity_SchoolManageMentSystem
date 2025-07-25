@@ -1,7 +1,7 @@
 {
-  "name": "MainWorkflow1",
-  "projectId": "e97bcf93-aeaa-440c-996f-34ead8c6c53c",
-  "description": "MainWorkflow1 to two variables and pass these as arguments to subworkflow and it display c=a+b in subworkflow.",
+  "name": "Finding_Student_Total_Average_using_In_direction_Arguments",
+  "projectId": "8a0d4032-c956-4c2c-836c-c54d623c0495",
+  "description": "Finding_Student_Total_Average_using_In_direction_Arguments",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.1.1]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "fa337cea-f38e-4b07-8e32-0e966708e107",
+      "uniqueId": "dcf8987a-8eac-4ba5-9fe5-9104419f0aa2",
       "input": [],
       "output": []
     }

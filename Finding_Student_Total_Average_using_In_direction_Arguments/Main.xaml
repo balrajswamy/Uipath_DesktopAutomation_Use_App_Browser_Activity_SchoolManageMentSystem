@@ -62,8 +62,8 @@
       <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
       <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
       <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
-      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
       <AssemblyReference>System.Memory.Data</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
       <AssemblyReference>System.Console</AssemblyReference>
       <AssemblyReference>System.Security.Permissions</AssemblyReference>
       <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
@@ -71,8 +71,8 @@
       <AssemblyReference>System.Memory</AssemblyReference>
       <AssemblyReference>System.Private.Uri</AssemblyReference>
       <AssemblyReference>NPOI.Core</AssemblyReference>
-      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
       <AssemblyReference>System.Linq.Async</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
       <AssemblyReference>System.Linq.Expressions</AssemblyReference>
       <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
       <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
@@ -80,17 +80,18 @@
       <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Flowchart DisplayName="Main" sap:VirtualizedContainerService.HintSize="575,270.04" sap2010:WorkflowViewState.IdRef="Flowchart_1">
+  <Flowchart DisplayName="Main" sap:VirtualizedContainerService.HintSize="692,526.04" sap2010:WorkflowViewState.IdRef="Flowchart_1">
     <Flowchart.Variables>
-      <Variable x:TypeArguments="x:Int32" Name="a" />
-      <Variable x:TypeArguments="x:Int32" Name="b" />
+      <Variable x:TypeArguments="x:Int32" Name="maths" />
+      <Variable x:TypeArguments="x:Int32" Name="physics" />
+      <Variable x:TypeArguments="x:Int32" Name="chemistry" />
     </Flowchart.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         <av:Point x:Key="ShapeLocation">330,2.5</av:Point>
         <av:Size x:Key="ShapeSize">50,50</av:Size>
-        <av:PointCollection x:Key="ConnectorLocation">355,52.5 355,82.5 350,82.5 350,105</av:PointCollection>
+        <av:PointCollection x:Key="ConnectorLocation">355,52.5 355,82.5 340,82.5 340,115</av:PointCollection>
         <x:Double x:Key="Width">724</x:Double>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
@@ -100,46 +101,36 @@
     <FlowStep x:Name="__ReferenceID0">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-          <av:Point x:Key="ShapeLocation">295,105</av:Point>
+          <av:Point x:Key="ShapeLocation">285,115</av:Point>
           <av:Size x:Key="ShapeSize">110,70</av:Size>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <Sequence DisplayName="Creating two variables a &amp; b and pass these as arguments to subworkflow" sap:VirtualizedContainerService.HintSize="468,998" sap2010:WorkflowViewState.IdRef="Sequence_7">
+      <Sequence DisplayName="Finding student total and average of three subjects using &quot;In direction&quot;" sap:VirtualizedContainerService.HintSize="110,70" sap2010:WorkflowViewState.IdRef="Sequence_7">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
-        <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="434,271" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Enter value for A" Title="Enter Any Number">
+        <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="416,271" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Enter marks for Maths" Title="Enter Marks">
           <ui:InputDialog.Result>
-            <OutArgument x:TypeArguments="x:Int32">[a]</OutArgument>
+            <OutArgument x:TypeArguments="x:Int32">[maths]</OutArgument>
           </ui:InputDialog.Result>
         </ui:InputDialog>
-        <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="434,271" sap2010:WorkflowViewState.IdRef="InputDialog_2" IsPassword="False" Label="Enter value for B" Title="Enter Any Number">
+        <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="416,271" sap2010:WorkflowViewState.IdRef="InputDialog_2" IsPassword="False" Label="Enter marks for Physics" Title="Enter Marks">
           <ui:InputDialog.Result>
-            <OutArgument x:TypeArguments="x:Int32">[b]</OutArgument>
+            <OutArgument x:TypeArguments="x:Int32">[physics]</OutArgument>
           </ui:InputDialog.Result>
         </ui:InputDialog>
-        <Assign sap:VirtualizedContainerService.HintSize="434,114" sap2010:WorkflowViewState.IdRef="Assign_2">
-          <Assign.To>
-            <OutArgument x:TypeArguments="x:Int32">[a]</OutArgument>
-          </Assign.To>
-          <Assign.Value>
-            <InArgument x:TypeArguments="x:Int32">[a]</InArgument>
-          </Assign.Value>
-        </Assign>
-        <Assign sap:VirtualizedContainerService.HintSize="434,114" sap2010:WorkflowViewState.IdRef="Assign_3">
-          <Assign.To>
-            <OutArgument x:TypeArguments="x:Int32">[b]</OutArgument>
-          </Assign.To>
-          <Assign.Value>
-            <InArgument x:TypeArguments="x:Int32">[b]</InArgument>
-          </Assign.Value>
-        </Assign>
-        <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Subworkflow1 - Invoke Workflow File (Subworkflow1.xaml)" sap:VirtualizedContainerService.HintSize="434,168" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="Subworkflow1.xaml">
+        <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="416,271" sap2010:WorkflowViewState.IdRef="InputDialog_3" IsPassword="False" Label="Enter marks for Chemistry" Title="Enter Marks">
+          <ui:InputDialog.Result>
+            <OutArgument x:TypeArguments="x:Int32">[chemistry]</OutArgument>
+          </ui:InputDialog.Result>
+        </ui:InputDialog>
+        <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="SubWorkFlow1 - Invoke Workflow File (SubWorkFlow1.xaml)" sap:VirtualizedContainerService.HintSize="416,168" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="SubWorkFlow1.xaml">
           <ui:InvokeWorkflowFile.Arguments>
-            <InArgument x:TypeArguments="x:Int32" x:Key="in_Value1">[a]</InArgument>
-            <InArgument x:TypeArguments="x:Int32" x:Key="in_Value2">[b]</InArgument>
+            <InArgument x:TypeArguments="x:Int32" x:Key="in_Maths">[maths]</InArgument>
+            <InArgument x:TypeArguments="x:Int32" x:Key="in_Physics">[physics]</InArgument>
+            <InArgument x:TypeArguments="x:Int32" x:Key="in_Chemistry">[chemistry]</InArgument>
           </ui:InvokeWorkflowFile.Arguments>
         </ui:InvokeWorkflowFile>
       </Sequence>
