@@ -1,7 +1,7 @@
 {
-  "name": "Finding_Student_Total_Average_using_In_direction_Arguments",
-  "projectId": "8a0d4032-c956-4c2c-836c-c54d623c0495",
-  "description": "Finding_Student_Total_Average_using_In_direction_Arguments",
+  "name": "Finding_Student_total_average_using_Out_direction",
+  "projectId": "9d633d1b-1bcd-4e8d-a40f-10556e0f28ac",
+  "description": "Finding_Student_total_average_using_Out_direction",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.1.1]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "dcf8987a-8eac-4ba5-9fe5-9104419f0aa2",
+      "uniqueId": "d2a9017d-273f-4a82-99bd-eb9846be5b86",
       "input": [],
       "output": []
     }
