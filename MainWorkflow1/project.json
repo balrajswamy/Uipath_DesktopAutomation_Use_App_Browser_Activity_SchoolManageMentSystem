@@ -1,7 +1,7 @@
 {
-  "name": "DynamicFileActivity_with_CurrentDate",
-  "projectId": "3768df5c-2622-41a7-b38c-d41c5ba21603",
-  "description": "DynamicFileActivity_with_CurrentDate",
+  "name": "MainWorkflow1",
+  "projectId": "e97bcf93-aeaa-440c-996f-34ead8c6c53c",
+  "description": "MainWorkflow1 to two variables and pass these as arguments to subworkflow and it display c=a+b in subworkflow.",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.1.1]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "5ae45d3d-9ec7-49c6-a023-7c5cea31fcf5",
+      "uniqueId": "fa337cea-f38e-4b07-8e32-0e966708e107",
       "input": [],
       "output": []
     }
