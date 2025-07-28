@@ -9,7 +9,7 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "SubWorkflow1.xaml",
+      "Path": null,
       "SortBy": 0,
       "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,
@@ -17,9 +17,9 @@
       "AddedNamespaces": null
     },
     {
-      "Path": null,
+      "Path": "Subworkflow.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": null,
+      "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null

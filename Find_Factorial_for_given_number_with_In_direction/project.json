@@ -1,18 +1,18 @@
 {
-  "name": "Finding_Student_total_average_using_Out_direction",
-  "projectId": "9d633d1b-1bcd-4e8d-a40f-10556e0f28ac",
-  "description": "Finding_Student_total_average_using_Out_direction",
+  "name": "Find_Factorial_for_given_number_with_In_direction",
+  "projectId": "adf1f08c-355a-492b-8b41-59862d317ec4",
+  "description": "Find_Factorial_for_given_number_with_In_direction",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[3.1.1]",
+    "UiPath.Excel.Activities": "[3.2.0-preview]",
     "UiPath.Mail.Activities": "[2.2.10]",
-    "UiPath.System.Activities": "[25.4.4]",
-    "UiPath.UIAutomation.Activities": "[25.10.8]"
+    "UiPath.System.Activities": "[25.6.1]",
+    "UiPath.UIAutomation.Activities": "[25.10.11-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "25.0.167.0",
+  "studioVersion": "25.0.172.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "d2a9017d-273f-4a82-99bd-eb9846be5b86",
+      "uniqueId": "1434db8e-c209-4ec6-81d5-deca4454ad9a",
       "input": [],
       "output": []
     }
