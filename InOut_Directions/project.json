@@ -1,7 +1,7 @@
 {
-  "name": "Find_Factorial_for_given_number_with_In_direction",
-  "projectId": "adf1f08c-355a-492b-8b41-59862d317ec4",
-  "description": "Find_Factorial_for_given_number_with_In_direction",
+  "name": "InOut_Directions",
+  "projectId": "22de42ca-034a-4085-b744-eba558b82ad5",
+  "description": "InOut_Directions",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.2.0-preview]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "1434db8e-c209-4ec6-81d5-deca4454ad9a",
+      "uniqueId": "51515a5a-1a80-4f61-ac05-0d7827d8260f",
       "input": [],
       "output": []
     }
