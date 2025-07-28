@@ -1,7 +1,7 @@
 {
-  "name": "InOut_Directions",
-  "projectId": "22de42ca-034a-4085-b744-eba558b82ad5",
-  "description": "InOut_Directions",
+  "name": "DateComparision_user_input_date_flow_decision",
+  "projectId": "632603b1-4558-40f7-95c5-11c9a83d59be",
+  "description": "DateComparision_user_input_date_flow_decision",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.2.0-preview]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "51515a5a-1a80-4f61-ac05-0d7827d8260f",
+      "uniqueId": "784bdb48-7228-407a-ab4f-8009f330d553",
       "input": [],
       "output": []
     }
