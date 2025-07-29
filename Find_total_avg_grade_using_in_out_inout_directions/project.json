@@ -1,7 +1,7 @@
 {
-  "name": "DateComparision_user_input_date_flow_decision",
-  "projectId": "632603b1-4558-40f7-95c5-11c9a83d59be",
-  "description": "DateComparision_user_input_date_flow_decision",
+  "name": "Find_total_avg_grade_using_in_out_inout_directions",
+  "projectId": "c6b9dca3-efaf-4772-8370-4ddce3fc4b23",
+  "description": "Find_total_avg_grade_using_in_out_inout_directions",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.2.0-preview]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "784bdb48-7228-407a-ab4f-8009f330d553",
+      "uniqueId": "1af695ca-7874-4b15-9c45-b78e5b74ed6e",
       "input": [],
       "output": []
     }
