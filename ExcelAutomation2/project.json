@@ -1,7 +1,7 @@
 {
-  "name": "Excel_Automation1",
-  "projectId": "fd97880a-3ec8-4bc8-87df-6b27aeb7f243",
-  "description": "Transactional Process",
+  "name": "ExcelAutomation2",
+  "projectId": "5fe02b46-7381-4b4d-aefa-a603386dc2ec",
+  "description": "ExcelAutomation2",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.2.0-preview]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "f92b8078-a0fd-48b3-921a-3286440c4c47",
+      "uniqueId": "62a97af9-9dcc-42ac-be67-f425356c1d91",
       "input": [],
       "output": []
     }
