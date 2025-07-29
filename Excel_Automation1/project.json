@@ -1,7 +1,7 @@
 {
-  "name": "Find_total_avg_grade_using_in_out_inout_directions",
-  "projectId": "c6b9dca3-efaf-4772-8370-4ddce3fc4b23",
-  "description": "Find_total_avg_grade_using_in_out_inout_directions",
+  "name": "Excel_Automation1",
+  "projectId": "fd97880a-3ec8-4bc8-87df-6b27aeb7f243",
+  "description": "Transactional Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.2.0-preview]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "1af695ca-7874-4b15-9c45-b78e5b74ed6e",
+      "uniqueId": "f92b8078-a0fd-48b3-921a-3286440c4c47",
       "input": [],
       "output": []
     }
