@@ -1,7 +1,7 @@
 {
-  "name": "ExcelAutomation_With_DataTable1",
-  "projectId": "3293ce2a-8cdb-4ae5-abc2-1c86ef482d03",
-  "description": "ExcelAutomation_With_DataTable1",
+  "name": "WorkBookActivities1",
+  "projectId": "d6be2bfc-6590-4ea1-b622-166f6b5a23ef",
+  "description": "WorkBookActivities1 for reading excel and writing cell ",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.2.0-preview]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "8c595b98-559f-4847-b8f2-da029d08ea83",
+      "uniqueId": "facdd7d7-b41a-4759-99a6-7c48af7f20c6",
       "input": [],
       "output": []
     }
