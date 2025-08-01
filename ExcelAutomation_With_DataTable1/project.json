@@ -1,7 +1,7 @@
 {
-  "name": "ExcelAutomation2",
-  "projectId": "5fe02b46-7381-4b4d-aefa-a603386dc2ec",
-  "description": "ExcelAutomation2",
+  "name": "ExcelAutomation_With_DataTable1",
+  "projectId": "3293ce2a-8cdb-4ae5-abc2-1c86ef482d03",
+  "description": "ExcelAutomation_With_DataTable1",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.2.0-preview]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "62a97af9-9dcc-42ac-be67-f425356c1d91",
+      "uniqueId": "8c595b98-559f-4847-b8f2-da029d08ea83",
       "input": [],
       "output": []
     }
