@@ -1,7 +1,7 @@
 {
-  "name": "WorkBookActivities1",
-  "projectId": "d6be2bfc-6590-4ea1-b622-166f6b5a23ef",
-  "description": "WorkBookActivities1 for reading excel and writing cell ",
+  "name": "FindRowsCount_ColCount_ColNames_with_WorkbookActivities1",
+  "projectId": "93e148bf-abeb-49c7-af86-a8745e12ffe7",
+  "description": "FindRowsCount_ColCount_ColNames_with_WorkbookActivities1",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.2.0-preview]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "facdd7d7-b41a-4759-99a6-7c48af7f20c6",
+      "uniqueId": "1f374f7b-7ae4-4e8b-ba87-0c43ddbd5c90",
       "input": [],
       "output": []
     }
