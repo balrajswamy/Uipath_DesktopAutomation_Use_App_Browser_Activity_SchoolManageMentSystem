@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="D5PqGZRYkkmwZt3d_ZkvKQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpauipathguru.com" CVScreenId="a58a1498-92a5-460e-9ca8-1d2323712865" CvType="AnyWordGroup" DesignTimeRectangle="563, 291, 585, 23" ElementType="Text" Guid="a06a8db6-929c-40b2-bb56-697d910097ff" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Result Oriented RPA UiPath Training in Hyderabad only 5 weeks' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="5b0b6a84beb939a49f9cc8a011beb903.png" xmlns="">0FhrY-btF8E2AgebM_rFKNw</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">GetText</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
