@@ -1,0 +1,13 @@
+﻿{
+  "Name": "RPA Uipath Training in …",
+  "Type": "Element",
+  "Id": "ZF3oHpB-Lk6Gq3G352qFmw",
+  "Reference": "1ePwNIOyhE6BoEhF2F5pnQ/ZF3oHpB-Lk6Gq3G352qFmw",
+  "ParentRef": "1ePwNIOyhE6BoEhF2F5pnQ/6qPb9O1KgEeCFHSs8UGV1w",
+  "Created": "2025-08-05T06:55:38.1644558Z",
+  "Updated": "2025-08-05T06:55:38.1644558Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

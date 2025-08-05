@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Result Oriented RPA UiPath Training in",
+  "Type": "Screen",
+  "Id": "rNpnqvH5qk2lgTCj1XBzFA",
+  "Reference": "1ePwNIOyhE6BoEhF2F5pnQ/rNpnqvH5qk2lgTCj1XBzFA",
+  "ParentRef": "1ePwNIOyhE6BoEhF2F5pnQ/jgzUvS0rVUW0mpUAWPWCfQ",
+  "Created": "2025-08-05T06:48:47.3158526Z",
+  "Updated": "2025-08-05T06:48:47.3158526Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
