@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Get Text Humidity",
+  "Type": "Element",
+  "Id": "PDM_aNwYhkeQGh9_2pdHTg",
+  "Reference": "oyJG_YQ00EegE17SXa9sDQ/PDM_aNwYhkeQGh9_2pdHTg",
+  "ParentRef": "oyJG_YQ00EegE17SXa9sDQ/3QodsdN7Kkmn0Guvn23TkQ",
+  "Created": "2025-08-06T07:42:33.8780233Z",
+  "Updated": "2025-08-06T07:42:33.8780233Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

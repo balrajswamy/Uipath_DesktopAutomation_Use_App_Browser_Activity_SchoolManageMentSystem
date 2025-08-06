@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text Weather Date",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "IidhRLJqmUKSEG0ywQ5C-Q",
+  "Reference": "oyJG_YQ00EegE17SXa9sDQ/IidhRLJqmUKSEG0ywQ5C-Q",
+  "ParentRef": "oyJG_YQ00EegE17SXa9sDQ/3QodsdN7Kkmn0Guvn23TkQ",
+  "Created": "2025-08-06T07:51:54.391397Z",
+  "Updated": "2025-08-06T07:51:54.391397Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
