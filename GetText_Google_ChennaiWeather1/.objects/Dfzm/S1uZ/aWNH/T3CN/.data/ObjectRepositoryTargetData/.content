@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Z-Y5bZ7XxkWAXaMaBdNwQQ" Reference="2FqXdq8dJUuYIPEHvhKQgw/T3CNLERCfUSyRW6Y1W4R9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="0f9ca50a-979a-44ef-ac0b-0ef0976600f9" CvType="AnyWordGroup" DesignTimeRectangle="366, 427, 90, 16" FuzzySelectorArgument="&lt;webctrl parentid='wob_wc' tag='DIV' type='' class='' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="ad13e8dc-24bd-4303-b663-3078e077a0ed" ScopeSelectorArgument="&lt;html app='chrome.exe' title='chennai weather - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0f9ca50a-979a-44ef-ac0b-0ef0976600f9" CvTextArea="418, 428, 26, 12" CvTextArgument="71%" CvType="Text" DesignTimeRectangle="419, 428, 24, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_hm' tag='SPAN' type='' class='' aaname='71%' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='71%' /&gt;" Guid="a5fdb338-aa97-4d45-abfe-e13d722a7178" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="f2ff22dd933f7f97652ad8d192f31107.png" xmlns="">0C17E6oM5Sku0CrGnazk75g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Humidity 71%",
+  "Type": "Element",
+  "Id": "xVRxtpwzDUeigdBv0egWvg",
+  "Reference": "2FqXdq8dJUuYIPEHvhKQgw/xVRxtpwzDUeigdBv0egWvg",
+  "ParentRef": "2FqXdq8dJUuYIPEHvhKQgw/aWNH0gS9gkWxElqB2dlm1w",
+  "Created": "2025-08-06T03:12:21.7242085Z",
+  "Updated": "2025-08-06T03:12:21.7242085Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

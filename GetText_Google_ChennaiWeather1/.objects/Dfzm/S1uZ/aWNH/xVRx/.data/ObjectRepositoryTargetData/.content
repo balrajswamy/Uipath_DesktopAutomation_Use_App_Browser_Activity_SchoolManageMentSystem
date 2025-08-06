@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jSTKZo3NW0CA8SM4_TitLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="15a1c718-078a-4090-86ad-3798104e3490" CvType="AnyWordGroup" DesignTimeRectangle="366, 427, 90, 16" FuzzySelectorArgument="&lt;webctrl parentid='wob_wc' tag='DIV' type='' class='' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="0677b196-de2f-42c0-921d-8ae5a26c1d1d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='chennai weather - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="15a1c718-078a-4090-86ad-3798104e3490" CvTextArea="187, 485, 80, 16" CvTextArgument="Temperature" CvType="Text" DesignTimeRectangle="188, 481, 79, 29" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_temp' tag='DIV' type='' class='ksb ksbs' aaname='Temperature' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Temperature' /&gt;" Guid="2a1c8857-46f6-42cb-ab82-14c49ec1f4d5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2c7e0637b856079965ad28843bdd175c.png" xmlns="">0YSBDvz7mAEyDBPVmcU-bWw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
