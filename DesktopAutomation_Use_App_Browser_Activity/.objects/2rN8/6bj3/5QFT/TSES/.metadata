@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Add Teacher",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "TSESR3ISC0eFAMbO4FZxaw",
+  "Reference": "MdiSzaTWIUKSnldYHh_k0g/TSESR3ISC0eFAMbO4FZxaw",
+  "ParentRef": "MdiSzaTWIUKSnldYHh_k0g/5QFT8KNeEUqK4BxTzi_UGw",
+  "Created": "2025-08-08T05:03:34.9129235Z",
+  "Updated": "2025-08-08T05:03:34.9129235Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

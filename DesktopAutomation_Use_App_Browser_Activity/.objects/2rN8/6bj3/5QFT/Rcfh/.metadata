@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Save",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "RcfhQ0oRb0CQZ908NF2a3Q",
+  "Reference": "MdiSzaTWIUKSnldYHh_k0g/RcfhQ0oRb0CQZ908NF2a3Q",
+  "ParentRef": "MdiSzaTWIUKSnldYHh_k0g/5QFT8KNeEUqK4BxTzi_UGw",
+  "Created": "2025-08-08T05:07:23.2356281Z",
+  "Updated": "2025-08-08T05:07:23.2356281Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Type Sname",
+  "Type": "Element",
+  "Id": "QyYq8huj9E2NRtAr6ZE2YA",
+  "Reference": "MdiSzaTWIUKSnldYHh_k0g/QyYq8huj9E2NRtAr6ZE2YA",
+  "ParentRef": "MdiSzaTWIUKSnldYHh_k0g/5QFT8KNeEUqK4BxTzi_UGw",
+  "Created": "2025-08-08T05:05:24.9137567Z",
+  "Updated": "2025-08-08T05:05:24.9137567Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

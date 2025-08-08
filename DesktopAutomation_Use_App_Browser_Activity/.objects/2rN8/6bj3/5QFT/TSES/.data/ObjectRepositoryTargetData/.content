@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qTVkLHzIqUqdkkzh11bY8g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="5b56a920-396d-49ee-af4d-5aa9c5f007c7" CvTextArea="659, 107, 65, 12" CvTextArgument="Add Teacher" CvType="Text" DesignTimeRectangle="659, 107, 65, 12" ElementType="Text" Guid="69cfebbb-46d4-4bc8-91b5-695adc117a97" ScopeSelectorArgument="&lt;wnd app='smans.exe' cls='ThunderRT6FormDC' title='School Management System' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bac4f40d45b4a5ddad9f90b9027b302c.png" xmlns="">097C-9Ee0qk2kl1xcJgxPUg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

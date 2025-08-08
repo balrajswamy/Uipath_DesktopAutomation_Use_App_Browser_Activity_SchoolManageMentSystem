@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Type Email",
+  "Type": "Element",
+  "Id": "NvrDS8R4KkSXycS3xDIH1A",
+  "Reference": "MdiSzaTWIUKSnldYHh_k0g/NvrDS8R4KkSXycS3xDIH1A",
+  "ParentRef": "MdiSzaTWIUKSnldYHh_k0g/5QFT8KNeEUqK4BxTzi_UGw",
+  "Created": "2025-08-08T05:06:44.7069717Z",
+  "Updated": "2025-08-08T05:06:44.7069717Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

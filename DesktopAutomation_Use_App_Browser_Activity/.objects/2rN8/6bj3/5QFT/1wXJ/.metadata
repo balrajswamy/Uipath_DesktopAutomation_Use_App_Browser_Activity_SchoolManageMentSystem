@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Type Phone Home",
+  "Type": "Element",
+  "Id": "1wXJ0weq3EuwhSOAjDNH1g",
+  "Reference": "MdiSzaTWIUKSnldYHh_k0g/1wXJ0weq3EuwhSOAjDNH1g",
+  "ParentRef": "MdiSzaTWIUKSnldYHh_k0g/5QFT8KNeEUqK4BxTzi_UGw",
+  "Created": "2025-08-08T05:06:00.0723333Z",
+  "Updated": "2025-08-08T05:06:00.0723333Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

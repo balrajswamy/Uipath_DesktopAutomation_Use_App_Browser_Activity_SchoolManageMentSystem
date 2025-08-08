@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PgwVxkPcFUe8LzuELbrZCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="0545fc2b-0e32-4508-b26e-f400ee48c9ea" CvElementArea="86, 33, 222, 22" CvType="InputBox" DesignTimeRectangle="87, 34, 221, 21" FullSelectorArgument="&lt;wnd ctrlid='5' /&gt;" Guid="a1ebc4d2-332a-4f7e-ba75-c059e68b6498" ScopeSelectorArgument="&lt;wnd app='smans.exe' cls='ThunderRT6FormDC' title='New Teacher' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a99c4097ec564daab45af6eaacda59fb.png" xmlns="">0zsMEzVCfT0K_otx1O03igQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

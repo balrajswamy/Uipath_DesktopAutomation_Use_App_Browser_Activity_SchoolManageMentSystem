@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ngw0eUfOKUe7neZsF8vNTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="d1adc82b-7f23-4508-966d-306d374000e4" CvElementArea="1342, 5, 19, 18" CvType="CloseButton" DesignTimeRectangle="1328, 1, 47, 30" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Close' role='push button' /&gt;" Guid="56a66e0e-9c87-4a11-9dd7-0a6ad2bf7668" ScopeSelectorArgument="&lt;wnd app='smans.exe' cls='ThunderRT6FormDC' title='School Management System' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="19ab672aa486f366f2650b626ab383ae.png" xmlns="">0hUdmRhfxkE6rXnwTxraAHw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

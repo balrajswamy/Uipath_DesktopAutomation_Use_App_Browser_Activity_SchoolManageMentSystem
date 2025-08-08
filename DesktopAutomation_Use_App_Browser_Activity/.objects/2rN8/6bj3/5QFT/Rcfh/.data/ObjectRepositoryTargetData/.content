@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mFFJ1cXBgkWi2j0c5ULvCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="8c1a5930-1682-4f86-8550-b91e98e444f2" CvElementArea="76, 170, 84, 26" CvTextArea="104, 177, 27, 12" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="75, 170, 85, 27" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='2' title='&amp;amp;Save' /&gt;" Guid="8fa286b3-4116-4754-8f65-2654ea86d74a" ScopeSelectorArgument="&lt;wnd app='smans.exe' cls='ThunderRT6FormDC' title='New Teacher' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f25dd62df12f5879902cc6e27ae866f5.png" xmlns="">0_oQsM8tQm0WXg4ZKnTS5eA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
